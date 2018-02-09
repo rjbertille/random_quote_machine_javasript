@@ -1,0 +1,50 @@
+html,body{
+  margin:0;
+  padding:0;
+}
+
+body {
+	text-align:center;
+}
+
+.content {
+	margin:0 auto;  
+}
+
+.quotes_content {
+	background-color:#000;
+	width:500px;
+	height:500px;
+	border:2px solid #fff;
+	margin:0 auto;
+	margin-top:50px;
+	
+}
+
+.text-center{
+	margin-top:50px;  
+}
+.quotes_content p {
+	margin-top:30px;
+}
+
+.quotes-bases {
+	margin-top:100px;
+}
+
+.quotes {
+	color:#fff;
+	font-family:arial, sans-serif;
+	font-weight:400;
+	text-align:center;
+	font-size:60px;
+
+}
+
+.author_content {
+	color:#fff;
+	font-style:italic;
+}
+
+
+
